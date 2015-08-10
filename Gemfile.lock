@@ -66,6 +66,7 @@ GEM
     execjs (2.5.2)
     globalid (0.3.5)
       activesupport (>= 4.1.0)
+    high_voltage (2.4.0)
     httpclient (2.6.0.1)
     i18n (0.7.0)
     impressionist (1.5.1)
@@ -164,6 +165,7 @@ DEPENDENCIES
   bootstrap-sass
   byebug
   coffee-rails (~> 4.1.0)
+  high_voltage
   impressionist
   jbuilder (~> 2.0)
   jquery-rails
@@ -180,4 +182,4 @@ DEPENDENCIES
   web-console (~> 2.0)
 
 BUNDLED WITH
-   1.10.5
+   1.10.6

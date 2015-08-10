@@ -21,3 +21,5 @@ group :development do
 end
 gem 'impressionist'
 gem 'sitemap_generator'
+
+gem 'high_voltage'
